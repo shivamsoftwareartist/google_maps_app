@@ -12,3 +12,5 @@ function initMap() {
 		mapTypeControlOptions: {style: google.maps.MapTypeControlStyle.DROPDOWN_MENU}
 	});
 }
+
+
