@@ -23,4 +23,32 @@ body {
     top: 100px;
     left: 100px;
 }
+
+.search-container {
+    width: 400px;
+    height: 60px;
+    position: absolute;
+    z-index: 100;
+    top: 230px;
+    left: 100px;
+    /*background-color: #454E53;*/
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+}
+
+.search {
+	flex-grow: 1;
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.search-container input {
+	flex-grow: 1;
+	font-size: 25px;
+	background-color: transparent;
+	border: none;
+	color: #454E53;
 }

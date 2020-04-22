@@ -2,11 +2,11 @@
 
 - Import Google Maps into the Window Done
 
-- Add the header `Store Locator`  
+- Add the header `Store Locator`  Done
 
-- Add markers of stores to the map
+- Add markers of stores to the map Done
 
-- Add info window with name of store to each marker
+- Add info window with name of store to each marker Done
 
 - Add input box
 
