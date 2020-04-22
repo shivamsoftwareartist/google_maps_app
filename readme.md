@@ -1,8 +1,8 @@
 # Plan Of Action
 
-- Import Google Maps into the Window
+- Import Google Maps into the Window Done
 
-- Add the header `Store Locator` 
+- Add the header `Store Locator`  
 
 - Add markers of stores to the map
 

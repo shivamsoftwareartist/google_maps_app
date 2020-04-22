@@ -3,24 +3,17 @@
     <head>
         <title>Google Maps Store Locator</title>
         <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
+        <link rel="stylesheet" href="css/style.css  ">
     </head>
     <body>
-    	<!-- <h1>This is store locator</h1> -->
+    	<div class="title">Store locator</div>
     	<div id="map"></div>
-		
 
-		<script>
-			function initMap() {
-				var sydney = {lat: -33.863276, lng: 151.107977};
-				map = new google.maps.Map(document.getElementById('map'), {
-					center: sydney,
-					zoom: 11
-				});
-			}
-		</script>
-		<script async defer
-	   		 src="https://maps.googleapis.com/maps/apijs?key=AIzaSyAYFQ-cArhRqf7VHHwMG9ZWZ7H2GDclzMs&callback=initMap">
+
+		<script src="js/store-data.js"></script>
+		<script src="js/main.js"></script>
+	   	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYFQ-cArhRqf7VHHwMG9ZWZ7H2GDclzMs&callback=initMap"></script>
 	    </script>
 
     </body>
-</html>
+</html> 
