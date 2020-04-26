@@ -16,7 +16,7 @@
 
 - Show all the stores in the stores list using `store-data.js` Done
 
-- Open the info window of the marker on store selection in stores list 
+- Open the info window of the marker on store selection in stores list Done
 
 - Complete the styling for the marker info window
 
