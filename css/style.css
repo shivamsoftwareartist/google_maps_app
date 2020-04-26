@@ -64,6 +64,8 @@ body {
     left: 100px;
     border-radius: 30px;
     bottom: 20px;
+    display: flex;
+    padding-bottom: 30px;
 }
 
 .store-address{
@@ -93,9 +95,11 @@ body {
     display: block;
 }
 
-.store-list {
+.stores-list {
     padding-left: 20px;
     padding-right: 20px;
+    overflow-y: scroll;
+    flex-grow: 1;
 }
 
 .store-info-container {
@@ -108,7 +112,7 @@ body {
 }
 
 .store-container {
-    border-bottom: 1px solid #979797;   
+    border-bottom: 1px solid #979797; 
 }
 
 .store-container-background {

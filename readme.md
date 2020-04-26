@@ -14,7 +14,7 @@
 
 - Add individual store container Done
 
-- Show all the stores in the stores list using `store-data.js`
+- Show all the stores in the stores list using `store-data.js` Done
 
 - Open the info window of the marker on store selection in stores list 
 
