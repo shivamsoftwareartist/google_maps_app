@@ -20,7 +20,7 @@
 
 - Complete the styling for the marker info window
 
-- Allow a user to search for stores in a zip code
+- Allow a user to search for stores in a zip code Done
 
 - Add a beautiful transition on the hover of an individual store
 
