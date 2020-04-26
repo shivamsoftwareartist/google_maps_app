@@ -10,7 +10,7 @@
 
 - Add input box Done
 
-- Add store list container
+- Add store list container Done
 
 - Add individual store container
 
