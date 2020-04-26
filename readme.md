@@ -12,7 +12,7 @@
 
 - Add store list container Done
 
-- Add individual store container
+- Add individual store container Done
 
 - Show all the stores in the stores list using `store-data.js`
 

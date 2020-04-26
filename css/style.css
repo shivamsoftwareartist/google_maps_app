@@ -54,8 +54,7 @@ body {
 	color: #454E53;
 }
 
-
-.store-list-container{
+.store-list-container {
     position: absolute;
     background: white;
     width: 400px;
@@ -65,4 +64,55 @@ body {
     left: 100px;
     border-radius: 30px;
     bottom: 20px;
+}
+
+.store-address{
+    font-size: 21px;
+    color: #514c4c;
+    margin-top: 30px;
+}
+
+.store-phone-number{
+    color: #b5adad;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.store-number{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    background-color: #454E54;
+    color: #b5adad;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.store-address span{
+    display: block;
+}
+
+.store-list {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.store-info-container {
+    flex-grow: 1;
+}
+
+.store-number-container{
+    display: flex;
+    align-items: center;
+}
+
+.store-container {
+    border-bottom: 1px solid #979797;   
+}
+
+.store-container-background {
+    display: flex;
+    padding-left: 5px;
+    padding-right: 5px;
 }
